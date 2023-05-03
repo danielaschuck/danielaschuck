@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Apaixonada por tecnologia e determinada a conquistar o mundo da programação! Sou estudante de Ciências Contábeis e Sistemas para Internet, e acredito que a tecnologia pode transformar o mundo.
+Apaixonada por tecnologia e determinada a conquistar o mundo da programação! Sou estudante de Ciência da Computação, e acredito que a tecnologia pode transformar o mundo.
 
 Se você quer uma desenvolvedora esforçada, dedicada e com muita energia, você acaba de encontrar! Adoro desafios e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades em programação.
 

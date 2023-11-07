@@ -32,7 +32,7 @@ EXCEL
 
   CSS
 ## Mais informações
-👩‍💻 Atualmente sou estagiária na Diretoria de administração financeira da UERJ.
+👩‍💻 Atualmente sou estagiária de BI na Petros
 
 🧠 Estou focada na área de análise de dados.
 

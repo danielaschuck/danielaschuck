@@ -25,14 +25,18 @@ Sou uma pessoa equilibrada e acredito que a vida deve ser vivida com paixão e d
   C 
 
 EXCEL
+POWER APPS
+POWER AUTOMATE
 
-  Power Bi
+  Power BI
 
  HTML
+ 
+PHP
 
   CSS
 ## Mais informações
-👩‍💻 Atualmente sou estagiária de BI na Petros
+👩‍💻 Atualmente sou analista BI na 200dev.
 
 🧠 Estou focada na área de análise de dados.
 

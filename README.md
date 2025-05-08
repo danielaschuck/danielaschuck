@@ -1,25 +1,30 @@
-# Olá! Sou a Daniela. ✌️
+# Hi there! I'm Daniela ✌️
 
-Sou uma estudante de Ciência da Computação no Rio de Janeiro, apaixonada por desvendar o potencial dos dados! Bem-vindo(a) ao meu GitHub.
+I'm a Computer Science student based in Rio de Janeiro, passionate about unlocking the power of data!  
+Welcome to my GitHub.
 
-🧠 Atualmente focada em aprimorar minhas habilidades em Análise de Dados e Machine Learning.
-👩‍💻 Analista BI na 200dev.
-📚 Estudante de Ciência da Computação (Bacharelado).
-🎓 Graduada em Ciências Contábeis.
-💻 Conhecimentos em Python (Pandas, NumPy, Scikit-learn, etc.), SQL, Power BI e Excel para análise de dados.
+## 🚀 About Me
 
-Atualmente explorando:
+- 🧠 Currently focused on enhancing my skills in **Data Analysis** and **Machine Learning**
+- 👩‍💻 **BI Analyst** at 200dev  
+- 📚 Bachelor's student in **Computer Science**  
+- 🎓 Graduated in **Accounting Sciences**  
+- 💻 Knowledge in **Python** (Pandas, NumPy, Scikit-learn), **SQL**, **Power BI**, and **Excel**
 
-  * Machine Learning .
-  * Novas técnicas de visualização de dados.
-  * Conceitos avançados de análise estatística.
+## 🔍 Currently Exploring
 
-Já trabalhei com:
+- Machine Learning  
+- New data visualization techniques  
+- Advanced concepts in statistical analysis  
 
-  * **Análise de dados (Analista BI):** 
-  * **Desenvolvimento de soluções com Power Apps e Power Automate:** 
-  * **Projetos de programação (Java e C):** 
+## 🛠️ Experience With
 
-📫 danielaschuckvaz@gmail.com
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/daniela-schuck-m-vaz-a9886921a)
-🔗 [Meu Instagram de Estudos](https://instagram.com/danitechs_?igshid=ZDdkNTZiNTM=)
+- **Data Analysis (BI Analyst)**  
+- **Developing solutions using Power Apps and Power Automate**  
+- **Programming projects in Java and C**
+
+## 📫 Contact
+
+- 📧 danielaschuckvaz@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/daniela-schuck-9a4208364/)  
+- 🔗 [Study Instagram](https://instagram.com/danitechs_?igshid=ZDdkNTZiNTM=)
